@@ -1,0 +1,46 @@
+site_name: 非美本脑科学博士申请指南
+theme:
+  name: material
+  language: 'zh'
+  
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - toc:
+      permalink: true
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_png
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+  
+    
+nav:
+
+  - 主页: index.md
+  - 序言：致亲爱的读者: preface.md
+  - 声明: statement.md
+  - 脑科学专业简述: short-intro.md
+  - 申请前期准备: early-stage.md
+  - 境外交流: abroad.md
+  - 建立学术界的人脉关系: network.md
+  - 申请项目介绍和列表: program.md
+  - 个人陈述PS: ps.md
+  - 面试: interview.md
+  - 个人申请案例分享: case.md
+  
