@@ -29,6 +29,8 @@ markdown_extensions:
   - pymdownx.tasklist
   - pymdownx.tilde
   
+extra_javascript:
+  - 'js/baidu-tongji.js'
     
 nav:
 
