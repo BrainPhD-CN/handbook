@@ -3,6 +3,10 @@ theme:
   name: material
   language: 'zh'
   
+google_analytics:
+  - UA-170864507-1
+  - auto
+  
 markdown_extensions:
   - admonition
   - codehilite:
