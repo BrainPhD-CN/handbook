@@ -10,7 +10,7 @@
 
 本指南遵循CC BY-NC-SA 3.0协议 https://creativecommons.org/licenses/by-nc-sa/3.0/ ，读者可以分享指南内容，或提出修改意见，但是禁止将指南用于商业用途。
 
-编写组（以首字母为序）：Gian  李竞捷  LQ  牛雪焱  xkl  Sumi  一个月芽  Yus
+编写组（以首字母为序）：Gian  李竞捷  LQ  牛雪焱  Sumi  xkl  一个月芽  Yus  
 
 主编：Gian
 
