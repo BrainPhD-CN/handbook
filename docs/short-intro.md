@@ -437,6 +437,11 @@ https://cni.upenn.edu/people
 
 *表示外网链接，可能需要科学上网
 
+### **找phd职位**
+
+- Foundation of European Neuroscience Societis: * https://www.fens.org/News-Activities/Jobs/, 欧洲一个很好的博士和博士后招聘网站，也有部分是北美和澳洲的招聘，有发布即更新。
+- Find a PhD: * https://www.findaphd.com 
+
 ### **线上课程**
 
 一些免费网课平台，以及上面的脑科学课程：
