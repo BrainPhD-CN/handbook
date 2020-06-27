@@ -441,6 +441,8 @@ https://cni.upenn.edu/people
 
 - Foundation of European Neuroscience Societis: * https://www.fens.org/News-Activities/Jobs/, 欧洲一个很好的博士和博士后招聘网站，也有部分是北美和澳洲的招聘，有发布即更新。
 - Find a PhD: * https://www.findaphd.com 
+- AcademicTransfer：https://www.academictransfer.com/en/ 针对荷兰的岗位
+- Nature careers: https://www.nature.com/naturecareers?gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgLzBvuRHk9lJxhAmxorIJnFPYDiu_EtI5dRDi5rQJlWRW_YE74c37saAj8nEALw_wcB
 
 ### **线上课程**
 
