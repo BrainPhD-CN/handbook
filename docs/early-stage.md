@@ -304,7 +304,9 @@ Gap的唯一缺点可能是有点伤财，因为愿意给这种student RA发工�
 
 开销方面：美国和英国硕士都非常昂贵，瑞士比较便宜（学费1000瑞郎以内每学期不限学分），德国法国生活费很低学费好像也不高，荷兰学费稍高生活费不高。具体生活费的花销可以参考留学地区选择那一章节。
 
-在专业选择方面，美国一般不会设置neuroscience和cognitive science的硕士，所以可以选择psychology, bioengineering, biomedical engineering，data science等相关专业；欧洲的专业设置会更加细分，需要根据方向和培养方案仔细筛选，cognitive science，psychology，bioinformatics，neural computation等硕士专业都可以考虑。
+在专业选择方面，美国设置neuroscience和cognitive science硕士项目的学校不是很多（如在University of California Davis, Stony Brook University, University of Southern California, University of Pittsburgh, Brandeis University有neuroscience类似项目，可参考https://www.mastersportal.com/study-options/269779170/neuroscience-united-states.html或自行搜索）。此外，可以选择psychology, bioengineering, biomedical engineering，data science等相关专业。
+
+欧洲的专业设置会更加细分，需要根据方向和培养方案仔细筛选，cognitive science，psychology，bioinformatics，neural computation等硕士专业都可以考虑。
 
 但整体上来讲，硕士专业选择远远不如选择实验室重要。有些同学会在刚拿到国外硕士offer的时候就联系好实验室，之后整年在实验室实习，这对申请加分不少。特别是在国外硕士毕业没有publication的要求下，主动争取更多的实验室经验是非常重要的。
 
