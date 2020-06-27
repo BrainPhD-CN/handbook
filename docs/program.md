@@ -125,6 +125,7 @@ $45.00 for applications submitted on or after November 1st.
 21. UChicago neuroscience (neurobiology, computational neuroscience)
 22. UPittsburgh Neuroscience
 23. Duke Neurobiology
+24. International Max Planck Research School (IMPRS) for Brain and Behavior（在Florida）
 
 ● **Neuroscience - 欧洲**
 
@@ -139,6 +140,8 @@ DDL在11.1，非常早，基本是第一个
 Max Planck Institute for Biological Cybernetics
 最好能提前联系到PI，和TA Skype一下，如果顺利，拿到面试的概率很大。
 7. University of Zurich Neuroecomomics
+8. 巴黎脑科院 Institut du Cerveau - ICM
+9. Netherlands Institute for Neuroscience 荷兰这边一般需要已经有硕士学位才申
 
 ● **Psychology - 美国**
 

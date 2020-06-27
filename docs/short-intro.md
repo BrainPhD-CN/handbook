@@ -397,7 +397,7 @@ https://cni.upenn.edu/people
 
 **ETH Zurich/University of Zurich**: Klaas Enno Stephan (computational psychiatry, neuroimaging), Todd Hare (neuroeconomics), Christian Ruff (neuroeconomics), Phillippe Tobler (nueuroeconomics), Rafael Polonia (decision making), 参考 https://www.neuroscience.uzh.ch/en/research/computation_modeling.html
 
-**UCL**: Karl Friston (free energy principle), Ray Dolan (computational psychiatry), Steve Fleming (metacognition), Tobias Hauser (computational psychiatry), Quentin Huys (computational psychiatry), Dominik Bach (computational psychiatry)
+**UCL**: Karl Friston (free energy principle), Ray Dolan (computational psychiatry), Steve Fleming (metacognition), Tobias Hauser (computational psychiatry), Quentin Huys (computational psychiatry), Dominik Bach (computational psychiatry)；还有Gatsby Computational Neuroscience Unit的Arthur Gretton, Peter Latham, Maneesh Sahani, Peter Orbanz
 
 **MPI**: Peter Dayan (decision making), Falk Lieder (resouce rationality)
 
