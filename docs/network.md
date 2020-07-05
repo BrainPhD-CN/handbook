@@ -31,7 +31,7 @@ Grammarly *https://www.grammarly.com ，在Chrome、Safari有插件，可以自�
 如有必要，附上你的CV。
 
 笔者联系教授的邮件作为一个例子：
-Potential grad student interested in neural computation
+Prospective grad student interested in neural computation
 
 Dear Prof. X, 
 
@@ -45,6 +45,8 @@ My CV is attached if you are interested. Thanks in advance.
 
 Best,
 Y
+
+标题也可以用更加直接的方式，引起老师在几百封邮件里看到你的注意，比如“prospective student: seeking for a phd position”。另外，可以在邮件正文提一句自己与此相关的课题或论文标题，一句话概括内容，减少老师了解你的成本（相比于点开CV或cover letter），同时也能引起老师对你的兴趣。
 
 ## **建立人脉关系前的准备工作**
 

@@ -337,17 +337,17 @@ gap year：
 
 ### 二、研究经历
 
-- 2019.9-present 美国 Human planning in a game with large state space
-- 2019.2-2019.7 英国 Modeling attention development using active inference 
-- 2018.6-2018.12 欧陆 cognitive-computational models of risk assessment under threat 
-- 2017.11-2019.1 欧陆 Developing cardiac-field artifact correction methods for EEG data
+- 一年（申请时只有四个月） 美国 Human planning in a game with large state space
+- 半年 英国 Modeling attention development using active inference 
+- 半年 欧陆 cognitive-computational models of risk assessment under threat 
+- 一年 欧陆 Developing cardiac-field artifact correction methods for EEG data
 
 ### 三、课外活动
 
-- 2019.9-present Lab management
-- 2018.3-2018.10 iGEM某队advisor
-- 2017.10-2017.11 iGEM Judge
-- 2014.11-2015.9 iGEM某队co-leader+co-founder,获奖若干
+- 一年 Lab management
+- 半年 iGEM某队advisor
+- 某届iGEM Judge
+- 一年 iGEM某队co-leader+co-founder,获奖若干
 
 ### 四、所获奖项
 
@@ -366,7 +366,6 @@ gap year：
 
 - Programming: MATLAB, Python, R, C++, HTML, SQL Server
 - Experiment: Behavioral experiments, skin conductance response, ECG, eye tracking
-- Toolbox: SPM, EEGLAB, HDDM, scikit-learn, Keras, TensorFlow
 
 ### 七、申请目标
 
