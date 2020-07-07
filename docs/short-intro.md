@@ -553,6 +553,7 @@ https://stearnslab.yale.edu/some-modest-advice-graduate-students
 
 #### **脑科学**
 
+|公众号|微信号|公众号简介|
 |-----|-----|-----|
 |我爱脑科学网|brainers|我爱脑科学网|
 |脑人言|ibrain-talk|一群科研人员组成的科普团队，坚持做有趣而严谨的「原创科普」。我们专注于神经科学、认知科学、脑机接口和人工智能等领域科学知识和思想的传播，希望能够帮助大家更好地认识脑、保护脑，探讨如何模拟脑。|
@@ -574,6 +575,7 @@ https://stearnslab.yale.edu/some-modest-advice-graduate-students
 
 #### **生物医学**
 
+|公众号|微信号|公众号简介|
 |-----|-----|-----|
 |BioArt|BioGossip|高屋建瓴，提供专家点评，引导学术争论，展现学术批评；诚心实意，关注科研生态，推广科研经验，倡导师生交流。|
 |弗雷赛斯|freescience|浙江大学医学院硕博士创建于2015年；专注开发科研神器、提供“平价”科研服务（90%<市场价1/2）；我们的愿景：“让天下没有难做的科研”。|
@@ -581,6 +583,7 @@ https://stearnslab.yale.edu/some-modest-advice-graduate-students
 
 #### **人工智能**
 
+|公众号|微信号|公众号简介|
 |-----|-----|-----|
 |机器之心|almosthuman2014|专业的人工智能媒体和产业服务平台|
 |量子位|QbitAI|追踪人工智能新趋势，报道科技行业新突破|
@@ -595,6 +598,7 @@ https://stearnslab.yale.edu/some-modest-advice-graduate-students
 
 #### **学术研究**
 
+|公众号|微信号|公众号简介|
 |-----|-----|-----|
 |OpenScience|OpenScience|Transparent, Open, & Reproducible Science|
 |返朴|fanpu2019|溯源守拙 · 问学求新|
