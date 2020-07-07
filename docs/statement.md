@@ -6,7 +6,7 @@
 
 我们的联系方式是：BrainPhD_CN@126.com。谢谢广大读者！
 
-编写组（以首字母为序）：Gian &emsp;李竞捷 &emsp;LQ &emsp;牛雪焱 &emsp;Sumi &emsp;xkl &emsp;一个月芽 &emsp;Yus 
+编写组（以首字母为序）：Gian &emsp;jingxuan &emsp;李竞捷 &emsp;LQ &emsp;牛雪焱 &emsp;Sumi &emsp;xkl &emsp;一个月芽 &emsp;Yus 
 
 主编：Gian
 

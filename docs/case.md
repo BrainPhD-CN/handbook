@@ -465,4 +465,65 @@ gap year：
 我为什么选择出国: 美国学术环境；科研资源；人际网络；生活方式.
 
 
+## **个人申请案例分享-8**
 
+### 一、教育情况
+
+1. 学校+专业：MIT, Brain and Cognitive Science
+
+2. 本科gpa: 4.9/5.0
+
+### **二、研究经历**
+
+- 2017 fall - 申请, MIT Picower Institute (Gloria Choi lab): dissecting an amygdalar circuit regulating suppression of innate social behaviors in mice
+- 2018 fall - 申请, MIT McGovern Institute (Alan Jasanoff lab): designing novel nanoparticle-based dopamine MRI sensor
+- 2018 Summer, Merck Research Laboratories: characterizing cellular dysfunctions in ALS using iPSC model 
+- Publication：有一篇作者位次比较靠后的JACS和一篇在投的文章
+
+### **三、课外活动**
+
+- 本系里的学生组织 Co-President
+- MIT-CHIEF（创新创业学生组织）Biotech 部分的 director
+
+### **四、所获奖项**
+
+- BCS系里的academics和research awards
+
+### **五、标化成绩**
+
+- GRE general: 335 (Verbal Reasoning: 168, 98%; Quantitative Reasoning: 167, 90%, Analytical Writing: 4.0, 57%)
+
+### **六、技能**
+
+- Programming languages: Matlab, Python, R
+- Experimental: calcium imaging, immunohistochemistry, FISH, neuronal cell culture, fMRI, chemical synthesis
+
+### **七、推荐信组成**
+
+- 两个在校的科研导师（Gloria & Alan），在校上课（比较小型的seminar）的教授和在Merck实习的直接导师。
+
+### **八、申请目标**
+
+- 目标地区：美国；专业：神经科学
+
+### 九、**拿到的Interview**
+
+||**University**/Program|
+|:--:|:--:|
+|1|**Harvard University** Program in Neuroscience (matriculated)|
+|2|**New York University** Neural Science|
+|3|**Caltech** Neurobiology|
+|4|**Duke University** Neurobiology|
+|5|**Princeton University** Neuroscience|
+|6|**UCSD** Neuroscience|
+|7|**UCLA** Interdepartmental Neuroscience Program|
+|8|**USC** Neuroscience|
+
+### **十、经验谈**
+
+1. 标化考试尽量不要花太多时间因为真的不重要，越来越多的学校都开始optional甚至拒绝收GRE的成绩
+2. 之前我很担心本科毕业直接申请会没有好的publication但实际经验证明这不是一个很重要的因素，只要对自己的研究足够熟悉，有较深的理解，在面试里能好好讲清楚，教授们都是看得出来的，不一定要用publication证明（尤其是对于做实验方向的同学可能3年全职工作才能产出一篇文章，所以学校不会苛求这种很依靠运气的因素）
+3. 写邮件去提前联系有没有用？个人感觉可能会有一些用但很depends（取决于那个教授本身在committee里说话的分量etc.）但如果要联系的话建议去联系那些和你现在做的项目很相关/和你老板有私交的人（即使你以后可能不会想继续做这个方向），因为他们会比较喜欢看到自己熟悉领域的学生。如果你的地理位置附件有可以直接去到的target school，建议邮件约一下去visit lab之类的，直接见面聊会比邮件有效许多
+4. 要不要申请其他更容易录取国际生的项目（e.g. Biology）？这个问题对于有些学校和项目是真实存在的，Neuroscience的项目用来录取国际生的经费会少很多（e.g. UC系 etc.）我当时申请的时候就有在联系某校教授的时候被建议去申请Biology然而比较头铁没有听，但现在看来还是蛮后悔的。所以建议大家如果Biology项目能选到的导师并没有很大差别并且更容易申一些的话就去申一下Biology
+5. 同校/同实验室竞争：这种情况其实在大学校还蛮常见的，我们组今年3个人同时申请，隔壁还有组里一年有10个人都在申请，都拿一个老板的推荐信会有比较大的压力。虽然potential的竞争者但其实还是建议同组的申请者能比较开诚布公的交流一下自己的目标学校，兴趣点之类的因为其实互相聊过会发现大家的定位很多时候还是有挺大不同的，所以这样交流更有助于在写自己文书或research statement的时候更突出自己的uniqueness
+6. 申请时要不要target单个方向很强的项目（e.g. 严重偏向分子/细胞 or 严重偏向计算）？一般来说如果对于自己未来想做的方向和想跟的导师非常坚定的话冲着该方向去申请也不是不可以，可以避开很多不必要的竞争，但对于本科刚结束就申请的同学其实更建议去申一个综合实力很强的项目。因为phd时期更注重综合的training并且在开始阶段兴趣点其实可以变化很大（我自己就是在申请之前，面试中，面试后选校几个阶段最感兴趣的lab都有所变化）
