@@ -143,14 +143,19 @@ mountain sort (https://mountainsort.readthedocs.io/en/latest/)
 
 #### **EEG**
 
-同样也是偏认知神经科学的工具，通过分析神经元的电信号在头皮处的总体反应，来研究环路或脑区层次的交互关系。这个领域常用的工具包是eeglab：https://sccn.ucsd.edu/eeglab/index.php。
+同样也是偏认知神经科学的工具，通过分析神经元的电信号在头皮处的总体反应，来研究环路或脑区层次的交互关系。这个领域常用的工具包是
 
-EEG和fMRI相比，它的优势是设备小巧，便于携带，对实验条件的要求不高，可以直接应用于课堂或者是小心理诊所中；并且它也有更高的时间精度 (temporal precision)。缺陷是缺乏空间精度，目前最精细的也就是把整个大脑的电信号分为128块，对基础的研究分析都有一些阻碍。
+eeglab：https://sccn.ucsd.edu/eeglab/index.php
+
+Brainstorm：https://neuroimage.usc.edu/brainstorm/
+
+Fieldtrip：http://www.fieldtriptoolbox.org/
+
+MNE-Python：https://mne.tools/stable/overview/index.html
+
+EEG是神经电信号在头皮上的记录，直接反应着神经电生理。而fMRI记录的是BOLD信号，是神经信号的间接反应。与fMRI相比，EEG的优势是有更高的时间精度 (temporal precision)，但也缺乏空间精度。一般EEG用的是21通道/64通道。对高通道EEG（128导/256导）进行溯源分析，一定程度上可以解决空间精度的问题，但算法比较复杂（需要解决头模型正问题和ill-posed逆问题），且定位精度和深部脑源的稳定性，有待在算法层面上进行改进和研究。
 
 目前以EEG作为主要或唯一研究手段的实验室不多，最集中在UCSD（也是eeglab的发源地）。现在EEG做的好的组基本都和UCSD有过联系，如在那里当过学生或博士后等，感兴趣的同学可以关注一下。做EEG主要需要学习的知识是信号处理类（预处理）和统计类（数据分析）。
-
-
-
 
 
 ### **脑机接口以及神经工程**
@@ -352,7 +357,7 @@ https://cns.uchicago.edu/program/faculty
 
 
 
-**MIT:** Josh Tenenbaum (computational cognitive science), James DiCarlo (visual neuroscience), Michale Fee (reinforcement learning), Ila Fiete (computation in neural circuits), Mehrdad Jazayeri (computation in neural circuits). 
+**MIT:** Josh Tenenbaum (computational cognitive science), James DiCarlo (visual neuroscience), Michale Fee (reinforcement learning), Ila Fiete (computation in neural circuits), Mehrdad Jazayeri (computation in neural circuits), Robert Guangyu Yang (training neural networks, biologically-plausible learning in neural networks)
 
  
 
@@ -360,7 +365,7 @@ https://cns.uchicago.edu/program/faculty
 
  
 
-**Columbia:** John Cunningham (analysis of neural data), Liam Paninski (analysis of neural data), Larry Abbott (theoretical neuroscience), Daniel Wolpert (sensory-motor system), Nikolaus Kriegeskorte (visual neuroscience), Elias Issa (visual neuroscience), Michael Shadlen (decision-making), Ken Miller, Stefano Fusi,Ashok Litwin-Kumar, Sean Escola
+**Columbia:** John Cunningham (analysis of neural data), Liam Paninski (analysis of neural data), Larry Abbott (theoretical neuroscience), Daniel Wolpert (sensory-motor system), Nikolaus Kriegeskorte (visual neuroscience), Elias Issa (visual neuroscience), Michael Shadlen (decision-making), Ken Miller, Stefano Fusi, Ashok Litwin-Kumar, Sean Escola
 
 https://zuckermaninstitute.columbia.edu/computation
 
