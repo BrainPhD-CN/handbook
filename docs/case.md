@@ -192,15 +192,14 @@
 
 1. 本科学校+专业：华五，生物+计算机双学位
 2. 硕士学校+专业：华五，应用统计
-3. 本科gpa+排名：1/70
-4. 硕士gpa+排名：1/10
+3. 本科gpa+排名：
+4. 硕士gpa+排名：
 
 ### 二、研究经历
 
-- 2016-2019，硕士所在学校，Reinforcement learning models with generalized probability，Nature子刊（一作）
-- Jun-Sep 2017，New York University, Recurrent neural networks with cell types, sfn会议一作
-- Jul 2018-Mar 2019, Columbia University, Synaptic models for recognition memory, Cosyne会议、bioRxiv（一作）
-- Jul 2018-Mar 2019, Columbia University, Convolutional neural networks for visual cortex, Cosyne会议、bioRxiv（共一）
+- 三年，硕士所在学校，Nature子刊（一作）
+- 三个月，New York University， sfn会议一作
+- 一年, Columbia University, 两篇bioRxiv（都发了Cosyne会议，为一作和共一）
 
 ### 三、课外活动
 
