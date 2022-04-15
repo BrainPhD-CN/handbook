@@ -289,7 +289,7 @@ David Marr 的理论框架，以及我们在上面所列举的计算神经科学
 ## **国内国外的计算课题组**
 
 
-这里我们列举一些按照学校组织的计算方向的研究组(PI)。由于笔者个人研究的偏好，只反映了这个领域的一部分研究方向，肯定有遗漏，仅供大家参考。
+这里我们列举一些按照学校组织的计算方向(计算神经/计算认知)的研究组(PI)。由于笔者个人研究偏好，只能反映了这个领域的一部分研究方向，肯定有很多遗漏，仅供大家参考。
 
 
 
@@ -343,17 +343,17 @@ https://liberalarts.utexas.edu/cps/faculty/index.php
 
 
 
-**U Chicago:** Nicholas Hatsopoulos (motor system) Matthew Kaufman (motor system) Jason Maclean, David Freedman (decision-making, dynamical system), Stephanie Palmer (neural coding), Wei Wei (computation in retinal circuit), Brent Doiron
+**U Chicago:** Nicholas Hatsopoulos (motor system) Matthew Kaufman (motor system) Jason Maclean, David Freedman (decision-making, dynamical system), Stephanie Palmer (neural coding), Wei Wei (computation in retinal circuit), Brent Doiron, Yuan Chang Leong
 
 https://cns.uchicago.edu/program/faculty
 
 
 
-**U Rochester:** Ralf Haefner (Bayesian/probabilistic models), Robert Jacobs (Bayesian/probabilistic models), Ariel Zylberberg (Bayesian/probabilistic models).
+**U Rochester:** Ralf Haefner (Bayesian/probabilistic models), Robert Jacobs (Bayesian/probabilistic models)
 
 
 
-**Brown:** Michael Frank (reinforcement learning, computational psychiatry), Amitai Shenhav (decision making, neuroimaging), Oriel FeldmanHall (social), Thomas Serre (computational vision).
+**Brown:** Michael Frank (reinforcement learning, computational psychiatry), Amitai Shenhav (decision making, neuroimaging), Oriel FeldmanHall (social), Thomas Serre (computational vision), Matthew Nassar, Sebastian Musslick
 
 
 
@@ -384,11 +384,12 @@ https://cni.upenn.edu/people
 
 
 
-**CMU**: Byron Yu, Rob Kass, Tai Sing Lee
+**CMU**: Byron Yu (BCI, dimension reduction), Steven Chase (BCI), Matt Smith, Rob Kass (stats), Valerie Ventura (stats), Tai Sing Lee, Mike Tarr, Marlene Behrmann, Leila Wehbe, Doug Weber, Pulkit Grover, Timothy Verstynen, Bonnie Nozari, David Plaut, John Anderson
 
-**University of Pittsburgh**: Bart Ermentrout, Chengcheng Huang
 
-**UC Davis**: Mark Goldman, Rishidev Chaudhuri, Shizhe Chen
+**University of Pittsburgh**: Bart Ermentrout, Jonathan Rubin, Chengcheng Huang, Marlene Cohen, Avniel Ghuman, Theodore Huppert
+
+**UC Davis**: Mark Goldman, Rishidev Chaudhuri, Shizhe Chen, Randall O'Reilly, Erie Boorman
 
 **Boston University**: Uri Eden, Nancy Kopell, Rachel Denison (perception)
 
@@ -396,30 +397,77 @@ https://cni.upenn.edu/people
 
 **Duke**: Nicolas Brunel, Jeff Beck
 
-**Johns Hopkins**: Joshua Vogelstein, Reza Shadmehr, Alan Yuille
+**Johns Hopkins**: Joshua Vogelstein, Reza Shadmehr, Alan Yuille, Paul Smolensky, Chaz Firestone, Jeremiah Cohen, Daeyeol Lee
 
 **USC**: Barlett Mel
 
+**Icahn School of Medicine at Mount Sinai**: Angela Radulescu, Xiaosu Gu, Vincenzo Fiore, Kanaka Rajan
+
+**Rice University/Baylor College of Medicine**: Xaq Pitkow, Andrew Tobias
+
+**Dartmouth College**: Alireza Soltani 
+
+**Ohio State University**: Brandon Turner
+
+**University of Florida**: Peter Kvam
+
+**UCI**: Mark Steyvers, Jeff Krichmar, Mimi Liljeholm, Michael Lee, Joachim Vandekerckhove, Emre Neftci
+
+**Gatech**: Doby Rahnev
+
+**RPI**: Chris Sims, Ron Sun
+
+**Rutgers**: Qiong Zhang, Pernille Hemmer, Jacob Feldman
+
+**Dartmouth**: Jonathan Phillips
+
+**Boston College**: Stefano Anzellotti
+
+**U IOWA**: Jiefeng Jiang, Toby Mordkoff
+
+**University of Arizona**: Robert Wilson
+
+
+**Vanderbilt**: Thilo Womelsdorf, Thomas Palmeri, Gordon Logan
+
+
+**Janelia**
+
 **ETH Zurich/University of Zurich**: Klaas Enno Stephan (computational psychiatry, neuroimaging), Todd Hare (neuroeconomics), Christian Ruff (neuroeconomics), Phillippe Tobler (nueuroeconomics), Rafael Polonia (decision making), 参考 https://www.neuroscience.uzh.ch/en/research/computation_modeling.html
 
-**UCL**: Karl Friston (free energy principle), Ray Dolan (computational psychiatry), Steve Fleming (metacognition), Tobias Hauser (computational psychiatry), Quentin Huys (computational psychiatry), Dominik Bach (computational psychiatry)；还有Gatsby Computational Neuroscience Unit的Arthur Gretton, Peter Latham, Maneesh Sahani, Peter Orbanz
+**UCL**: Karl Friston (free energy principle), Ray Dolan (computational psychiatry), Steve Fleming (metacognition), Tobias Hauser (computational psychiatry), Quentin Huys (computational psychiatry), Dominik Bach (computational psychiatry)；还有Gatsby Computational Neuroscience Unit的Arthur Gretton, Peter Latham, Maneesh Sahani, Peter Orbanz, Bradley Love
 
-**MPI**: Peter Dayan (decision making), Falk Lieder (resouce rationality)
+**University of Bristol**: Bristol Computational Neuroscience Unit[https://bristolcnu.github.io/], Conor Houghton, Rui Ponte Costa, Laurence Aitchison, Nathan Lepora, Seán Froudist-Walsh
+
+**Ulster University**: Kongfatt Wong-Lin, Cian O'Donnell
+
+**MPI**: Peter Dayan (decision making), Falk Lieder (resouce rationality), Eric Schulz, Charly Wu, Martin Giese, Ralph Hertwig, Christian Doeller, Iyad Rahwan
+
+**Free University Berlin**: Radoslaw Martin Cichy
+
+**Uni Osnabrück**: Tim Kietzmann, Gabriela Pipa, Peter König
 
 **ENS Paris**: Stefano Palminteri (computational psychiatry, decision making), Valentin Wyart (reinforcement learning), Etienne Koechlin (decision making)
 
-**Cambridge**: Mate Lengyel, Guillaume Hennequin
+**Cambridge**: Mate Lengyel, Guillaume Hennequin, Paul Bays
 
-**Oxford**: Timothy Behrens, Paul Bays
+**Oxford**: Timothy Behrens, Andrew Saxe, Chris Summerfield
 
-**U Edinburgh**: http://web.inf.ed.ac.uk/anc/research/neuroscience
+**U Edinburgh**: http://web.inf.ed.ac.uk/anc/research/neuroscience, https://www.compcogsci.ppls.ed.ac.uk/people/, Neil Bramley, Alex Doumas, Hilary Richardson, Christopher Lucas
 
+**University of Warwick**: Adam Sanborn, Nick Chater
+
+**Université de Montréal/MILA**: Blake Richards, Becket Ebitz, Guillaume Dumas
+
+**Friedemann Zenke**
+
+**Rubén Moreno-Bote**
 
 国内的计算神经科学组:
 
-**NYU Shanghai**: Jeffrey Erlich, Sukbin Lim
+**NYU Shanghai**: Jeffrey Erlich, Sukbin Lim, 田兴
 
-**北京大学**：吴思，陶乐天
+**北京大学**：吴思，陶乐天, 张航, 周阳,朱露莎，罗欢
 
 **上海交大**：李松挺, 周栋焯
 
@@ -427,13 +475,17 @@ https://cni.upenn.edu/people
 
 **中科大**：温泉
 
-**北师大**：王大辉、斯白露
+**北师大**：王大辉、斯白露,汪寅
+
+**浙江大学**：丁鼐
 
 **电子科技大学**：郭大庆
 
 **香港科技大学**:  Yu Hu, K. Y. Michael Wong
 
 **香港浸会大学**: Changsong Zhou
+
+**上海神经所**： 王立平
 
 另外有https://compneuroweb.com/labs.html这个网站也介绍了计算神经科学的部分课题组。
 
@@ -473,6 +525,27 @@ https://cni.upenn.edu/people
 MOOC 检索网站： Class Central * https://www.classcentral.com ；
 
 YouTube上有大量Seminar/Talk的录像，可以直接搜感兴趣的老师的名字，查看是否有历史记录；另外，强烈推荐 YouTube 上Stanford Prof. Robert Sapolsky 的关于人类行为(Human Behavior)的课程！覆盖范围很广，教授讲课妙语连珠，让人点开后看着停不下来。
+
+其他资源比如
+
+- 复杂科学：https://www.complexityexplorer.org/
+- MIT CBMM: https://www.youtube.com/c/MITCBMM
+- 神经计算与控制实验室NCC lab推荐的网课https://mp.weixin.qq.com/s/thpzZBaXFVvknwjszeHnQQ
+- Information theory: https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6
+- Steve Brunton: https://www.youtube.com/c/Eigensteve/playlists
+- 认知建模：http://www.hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html
+- 认知建模2：https://probmods.org/
+- Cosyne talk: https://www.youtube.com/channel/UCzOTbZTHTubFNjANAR33AAg
+- 经典的计算神经科学模型代码实现：https://github.com/PKU-NIP-Lab/BrainPy
+- DRL: https://www.youtube.com/playlist?list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_
+- ML and DL: https://speech.ee.ntu.edu.tw/~hylee/
+- 贝叶斯统计：https://avehtari.github.io/BDA_course_Aalto/gsu2021.html
+- 神经数据分析：https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx
+- fMRI: https://www.coursera.org/learn/functional-mri/home/welcome
+- NMA: https://compneuro.neuromatch.io/tutorials/intro.html
+- 计算神经科学：https://www.youtube.com/watch?v=OroZCO00ts4&list=PLX-XEf1yTMrkcpni8RJMnqGBlA9uEHlaE
+- MIT 9.40 Introduction to Neural Computation, Spring 2018：https://www.youtube.com/playlist?list=PLUl4u3cNGP61I4aI5T6OaFfRK2gihjiMm
+- https://space.bilibili.com/19086089 经常转载有意思的neuro talk
 
 ### **研究生院往年录取/毕业数据**
 
@@ -552,6 +625,36 @@ Fairhall Lab Blog
 \* https://fairhalllab.com/2013/06/14/pursuing-computational-neuroscience/  University of Washington, Prof. Adrienne Fairhall (Coursera， Computational 神经科学的讲师之一）在计算神经领域发展的一些建议
 
 https://stearnslab.yale.edu/some-modest-advice-graduate-students
+
+https://deepmind.com/blog
+
+https://www.lifeiscomputation.com/
+
+http://romainbrette.fr/blog-series/
+
+https://nikokriegeskorte.org/
+
+https://bradlove.org/blog/
+
+https://distill.pub/
+
+https://itila.blogspot.com/
+
+https://neurocritic.blogspot.com/
+
+https://lindeloev.net/
+
+https://www.scientificamerican.com/section/mind-matters/
+
+https://practicalfmri.blogspot.com/
+
+http://www.talkingbrains.org/
+
+https://pillowlab.wordpress.com/
+
+http://romainbrette.fr/blog-series/
+
+(PodCast) Brain Inspired：https://braininspired.co/
 
 ### **微信公众号**
 微信公众号已经改变了很多科研工作者获取最新学术新闻的方式。下面我们仅简单列出不同领域的一小部分公众号，优秀的公众号还很多，读者可以根据自己的兴趣自行寻找。

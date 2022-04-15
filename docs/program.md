@@ -90,6 +90,12 @@
 
 总结：整体上来说，留学地区的影响其实在生活上和学术上的软性层面是最大的，这个因素在第一次申请的小伙伴眼里往往会被忽略，但随着留学时间增长，这个因素发挥的影响会越来越大。希望大家在选择留学地区/城市的时候一定不要忽略生活因素。并需要注意考虑长期生活的感受和旅游完全不同，真实的体验和影视作品千差万别。
 
+● **城市怎么样**：
+1. 生活成本：https://www.numbeo.com/cost-of-living/
+2. 评分：https://www.bestplaces.net/
+3. justicemap（汇编种族和收入数据）：http://www.justicemap.org/
+
+
 ## **项目录取类型介绍**
 
 不同的phd项目按照可以分成2种典型的录取类型：强委员会 (committee) 和强教授。神经科学的项目多是强委员会类型，心理系的项目多是强教授类型；也有少数例外。招生类型的不同对应的申请策略也有差异。
@@ -207,8 +213,8 @@ $45.00 for applications submitted on or after November 1st.
 DDL在11.1，非常早，基本是第一个
 5. UCL Optical Biology
 6. 马普所 (Tubingen/Frankfurt)
-Max Planck Institute for Biological Cybernetics
-最好能提前联系到PI，和TA Skype一下，如果顺利，拿到面试的概率很大。
+Max Planck Institute for Biological Cybernetics最好能提前联系到PI，和TA Skype一下，如果顺利，拿到面试的概率很大。
+IMPRS-IS(https://imprs.is.mpg.de/application),Max Planck-University of Toronto(https://mpc.utoronto.ca/joint-phd-program/), IMPRS-MMFD(https://www.kyb.tuebingen.mpg.de/465770/5-year-track), IMPRS COMP2PSYCH, Max Planck School of Cognition (https://cognition.maxplanckschools.org/en/application), Max Planck UCL Centre for Computational Psychiatry and Ageing
 7. University of Zurich Neuroecomomics program制统一招生。
 8. 巴黎脑科院 Institut du Cerveau - ICM
 9. Netherlands Institute for Neuroscience 荷兰这边一般需要已经有硕士学位才申

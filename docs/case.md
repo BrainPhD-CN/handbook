@@ -526,3 +526,87 @@ gap year：
 4. 要不要申请其他更容易录取国际生的项目（e.g. Biology）？这个问题对于有些学校和项目是真实存在的，Neuroscience的项目用来录取国际生的经费会少很多（e.g. UC系 etc.）我当时申请的时候就有在联系某校教授的时候被建议去申请Biology然而比较头铁没有听，但现在看来还是蛮后悔的。所以建议大家如果Biology项目能选到的导师并没有很大差别并且更容易申一些的话就去申一下Biology
 5. 同校/同实验室竞争：这种情况其实在大学校还蛮常见的，我们组今年3个人同时申请，隔壁还有组里一年有10个人都在申请，都拿一个老板的推荐信会有比较大的压力。虽然potential的竞争者但其实还是建议同组的申请者能比较开诚布公的交流一下自己的目标学校，兴趣点之类的因为其实互相聊过会发现大家的定位很多时候还是有挺大不同的，所以这样交流更有助于在写自己文书或research statement的时候更突出自己的uniqueness
 6. 申请时要不要target单个方向很强的项目（e.g. 严重偏向分子/细胞 or 严重偏向计算）？一般来说如果对于自己未来想做的方向和想跟的导师非常坚定的话冲着该方向去申请也不是不可以，可以避开很多不必要的竞争，但对于本科刚结束就申请的同学其实更建议去申一个综合实力很强的项目。因为phd时期更注重综合的training并且在开始阶段兴趣点其实可以变化很大（我自己就是在申请之前，面试中，面试后选校几个阶段最感兴趣的lab都有所变化）
+
+
+## **个人申请案例分享-9**
+
+### 一、教育情况
+
+1. 本科学校+专业：真双非+心理学
+2. 本科gpa+排名：3.1+/4，前80%
+3. 硕士学校+专业：真双非+心理学
+4. 硕士gpa+排名：3.6+/4，前60%
+
+
+### **二、研究经历**
+
+- 2019 - 2020: 心理学实验和EEG数据分析
+- 2019.10 - 2020.3: spiking neural network model
+- 2021.9 - 申请： artificial neural network model
+
+
+### **三、课外活动**
+
+无
+
+### **四、所获奖项**
+
+无
+
+### **五、标化成绩**
+
+IELTS: 7.5 (S6)
+TOEFL报不上名，GRE太难了不想考，正好很多都waive掉了
+
+
+### **六、技能**
+
+- Programming languages: Python, Matlab, R
+- Experimental Skills: EEG
+- Modeling skills: SNN, ANN, Bayesian, RL
+
+
+### **七、推荐信组成**
+
+美国remote RA的导师，国内RA的导师，硕士导师和任课老师
+
+### **八、申请目标**
+
+全世界，研究方法理论方向，问题认知方向，尽量不做实验，不要太生理，结合一些机器学习的理论。申请项目心理学和神经科学一半一半。
+
+### 九、**拿到的Interview**
+
+第一年
+
+||**University**/Program|
+|:--:|:--:|
+|1|**Dartmouth** Psychological and Brain Sciences|
+|2|**U of Florida** Psychology|
+|3|**U of Rochester** Brain and Cognitive Science|
+|4|**IMPRS-MMFD** |
+|5|**Free University Berlin** |
+|6|**Ghent University** |
+
+第二年
+
+||**University**/Program|
+|:--:|:--:|
+|1|**U of Iowa** Psychological and Brain Sciences|
+|2|**U of Arizona** Psychology|
+|3|**Baylor College of Medicine** Neuroscience|
+|4|**Rutgers U** Cognitive Psychology|
+|5|**RPI** Cognitive Science|
+|6|**MPI** Max Planck School of Cognition|
+|7|**UCL** Artificial Intelligence, Experimental Psychology|
+|8|**U de Montreal and MILA** |
+|9|**University of Bristol** |
+|10|**Ulster University** |
+
+
+### **十、经验谈**
+
+第一年给面试的地方第二年都申请了，但是没有再给面试了。没有publication出来的话，两次申请给面试的地方基本差不多。
+
+申请中自己感觉做得不好应该提高的地方:
+1. 第一年美国只申请了7个项目，有些导师没回邮件就没有申请了，只申请了热情回邮件的地方。第二年申了12个，感觉收面试的比例差不多。
+2. 第一年面试没有重视：以为面试的录取率很高，其实很低，特别是神经科学项目。我没有练面试，错过了很好的机会。面试的时候最好能弄清楚你想申请的PI的研究，可以youtube搜一下他的talk。看看他写的review，他对一些问题有怎么样的观点。

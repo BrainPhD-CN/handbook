@@ -8,3 +8,4 @@
 - 张磊 （lei-zhang.net）
 - Jiashu
 - 刘泉影
+- Qi Xin
